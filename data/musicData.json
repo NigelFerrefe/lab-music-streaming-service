@@ -1,0 +1,190 @@
+{
+  "artists": [
+    {
+      "_id": "6474b0f9c25e4a11a2d2e001",
+      "name": "Taylor Swift",
+      "genre": "Pop"
+    },
+    {
+      "_id": "6474b0f9c25e4a11a2d2e002",
+      "name": "Queen",
+      "genre": "Rock"
+    },
+    {
+      "_id": "6474b0f9c25e4a11a2d2e003",
+      "name": "Adele",
+      "genre": "Soul"
+    },
+    {
+      "_id": "6474b0f9c25e4a11a2d2e004",
+      "name": "The Beatles",
+      "genre": "Rock"
+    },
+    {
+      "_id": "6474b0f9c25e4a11a2d2e005",
+      "name": "Ed Sheeran",
+      "genre": "Pop"
+    },
+    {
+      "_id": "6474b0f9c25e4a11a2d2e006",
+      "name": "Drake",
+      "genre": "Hip Hop"
+    },
+    {
+      "_id": "6474b0f9c25e4a11a2d2e007",
+      "name": "Beyoncé",
+      "genre": "R&B"
+    },
+    {
+      "_id": "6474b0f9c25e4a11a2d2e008",
+      "name": "Coldplay",
+      "genre": "Alternative Rock"
+    },
+    {
+      "_id": "6474b0f9c25e4a11a2d2e009",
+      "name": "Kendrick Lamar",
+      "genre": "Hip Hop"
+    },
+    {
+      "_id": "6474b0f9c25e4a11a2d2e010",
+      "name": "Billie Eilish",
+      "genre": "Pop"
+    }
+  ],
+  "albums": [
+    {
+      "_id": "6485b0f9c25e4a11a2d2e001",
+      "title": "1989",
+      "releaseYear": 2014,
+      "artist": "6474b0f9c25e4a11a2d2e001"
+    },
+    {
+      "_id": "6485b0f9c25e4a11a2d2e002",
+      "title": "A Night at the Opera",
+      "releaseYear": 1975,
+      "artist": "6474b0f9c25e4a11a2d2e002"
+    },
+    {
+      "_id": "6485b0f9c25e4a11a2d2e003",
+      "title": "25",
+      "releaseYear": 2015,
+      "artist": "6474b0f9c25e4a11a2d2e003"
+    },
+    {
+      "_id": "6485b0f9c25e4a11a2d2e004",
+      "title": "Abbey Road",
+      "releaseYear": 1969,
+      "artist": "6474b0f9c25e4a11a2d2e004"
+    },
+    {
+      "_id": "6485b0f9c25e4a11a2d2e005",
+      "title": "Divide",
+      "releaseYear": 2017,
+      "artist": "6474b0f9c25e4a11a2d2e005"
+    },
+    {
+      "_id": "6485b0f9c25e4a11a2d2e006",
+      "title": "Scorpion",
+      "releaseYear": 2018,
+      "artist": "6474b0f9c25e4a11a2d2e006"
+    },
+    {
+      "_id": "6485b0f9c25e4a11a2d2e007",
+      "title": "Lemonade",
+      "releaseYear": 2016,
+      "artist": "6474b0f9c25e4a11a2d2e007"
+    },
+    {
+      "_id": "6485b0f9c25e4a11a2d2e008",
+      "title": "Parachutes",
+      "releaseYear": 2000,
+      "artist": "6474b0f9c25e4a11a2d2e008"
+    },
+    {
+      "_id": "6485b0f9c25e4a11a2d2e009",
+      "title": "DAMN.",
+      "releaseYear": 2017,
+      "artist": "6474b0f9c25e4a11a2d2e009"
+    },
+    {
+      "_id": "6485b0f9c25e4a11a2d2e010",
+      "title": "When We All Fall Asleep, Where Do We Go?",
+      "releaseYear": 2019,
+      "artist": "6474b0f9c25e4a11a2d2e010"
+    }
+  ],
+  "songs": [
+    {
+      "_id": "6496b0f9c25e4a11a2d2e001",
+      "title": "Blank Space",
+      "duration": 231,
+      "album": "6485b0f9c25e4a11a2d2e001"
+    },
+    {
+      "_id": "6496b0f9c25e4a11a2d2e002",
+      "title": "Bohemian Rhapsody",
+      "duration": 354,
+      "album": "6485b0f9c25e4a11a2d2e002"
+    },
+    {
+      "_id": "6496b0f9c25e4a11a2d2e003",
+      "title": "Hello",
+      "duration": 295,
+      "album": "6485b0f9c25e4a11a2d2e003"
+    },
+    {
+      "_id": "6496b0f9c25e4a11a2d2e004",
+      "title": "Come Together",
+      "duration": 259,
+      "album": "6485b0f9c25e4a11a2d2e004"
+    },
+    {
+      "_id": "6496b0f9c25e4a11a2d2e005",
+      "title": "Shape of You",
+      "duration": 233,
+      "album": "6485b0f9c25e4a11a2d2e005"
+    },
+    {
+      "_id": "6496b0f9c25e4a11a2d2e006",
+      "title": "In My Feelings",
+      "duration": 210,
+      "album": "6485b0f9c25e4a11a2d2e006"
+    },
+    {
+      "_id": "6496b0f9c25e4a11a2d2e007",
+      "title": "Formation",
+      "duration": 222,
+      "album": "6485b0f9c25e4a11a2d2e007"
+    },
+    {
+      "_id": "6496b0f9c25e4a11a2d2e008",
+      "title": "Yellow",
+      "duration": 266,
+      "album": "6485b0f9c25e4a11a2d2e008"
+    },
+    {
+      "_id": "6496b0f9c25e4a11a2d2e009",
+      "title": "HUMBLE.",
+      "duration": 177,
+      "album": "6485b0f9c25e4a11a2d2e009"
+    },
+    {
+      "_id": "6496b0f9c25e4a11a2d2e010",
+      "title": "bad guy",
+      "duration": 194,
+      "album": "6485b0f9c25e4a11a2d2e010"
+    }
+  ],
+  "playlists": [
+    {
+      "_id": "64a7b0f9c25e4a11a2d2e001",
+      "name": "Hits of the Decade",
+      "songs": ["6496b0f9c25e4a11a2d2e001", "6496b0f9c25e4a11a2d2e002", "6496b0f9c25e4a11a2d2e003", "6496b0f9c25e4a11a2d2e004"]
+    },
+    {
+      "_id": "64a7b0f9c25e4a11a2d2e002",
+      "name": "Chill Vibes",
+      "songs": ["6496b0f9c25e4a11a2d2e005", "6496b0f9c25e4a11a2d2e008", "6496b0f9c25e4a11a2d2e010", "6496b0f9c25e4a11a2d2e009"]
+    }
+  ]
+}
